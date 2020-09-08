@@ -1,5 +1,5 @@
 # uni-app-npm
-
+> uni-app cli创建的模板，便于codesandbox使用
 ## Project setup
 ```
 yarn install
